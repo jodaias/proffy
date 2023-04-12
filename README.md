@@ -2,4 +2,4 @@
 # proffy: aplicativo para estudar e dar aulas
 
 #Link para o projeto Original
-https://github.com/higorsnt/proffy
+https://github.com/rocketseat-education/nlw-02-omnistack
